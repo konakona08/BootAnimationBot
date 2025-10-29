@@ -383,3 +383,8 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+#token..............
+MyBot/token.h
+
+MyBot/~temp*

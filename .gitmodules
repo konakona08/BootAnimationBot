@@ -1,0 +1,18 @@
+[submodule "Deps/fdk-aac"]
+	path = Deps/fdk-aac
+	url = https://github.com/mstorsjo/fdk-aac.git
+[submodule "Deps/x264"]
+	path = Deps/x264
+	url = https://github.com/konakona08/x264cmake.git
+[submodule "Deps/libzip"]
+	path = Deps/libzip
+	url = https://github.com/kiyolee/libzip-win-build.git
+[submodule "deps/zlib-win-build"]
+	path = deps/zlib-win-build
+	url = https://github.com/kiyolee/zlib-win-build.git
+[submodule "deps/miniaudio"]
+	path = deps/miniaudio
+	url = https://github.com/mackron/miniaudio.git
+[submodule "Deps/l-smash"]
+	path = Deps/l-smash
+	url = https://github.com/raulmrio28-git/l-smash.git
