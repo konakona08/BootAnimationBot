@@ -4,7 +4,7 @@ Bot implementation of Bootanimation, tool used to convert bootanimation.zip (and
 
 # Usage examples
 
-# Before starting usage, you must create a token.h with your own bot token:
+# Before starting usage, you must create a token.h with your own bot token in the MyBot folder:
 ```c
 #define TOKEN "<your token>"
 ```
