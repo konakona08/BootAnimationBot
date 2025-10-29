@@ -50,18 +50,20 @@ At this moment the project does not have a license. I planned to license it unde
 
 Its dependencies are under the following licenses:
 
-1. ImageMagick - [ImageMagick license](LICENSE.IMAGEMAGICK)
+1. D++ - [Apache-2.0](LICENSE.DPP)
 
-2. VideoLAN X264 (modified for Visual Studio building) - [GPL 2.0 or later](LICENSE.X264)
+2. ImageMagick - [ImageMagick license](LICENSE.IMAGEMAGICK)
 
-3. FDK-AAC - [Fraunhofer license](LICENSE.FDKAAC)
+3. VideoLAN X264 (modified for Visual Studio building) - [GPL 2.0 or later](LICENSE.X264)
 
-4. libzip (modified for Visual Studio building) - [BSD 3-clause](LICENSE.LIBZIP)
+4. FDK-AAC - [Fraunhofer license](LICENSE.FDKAAC)
 
-5. miniaudio - [MIT No Attribution](LICENSE.MINIAUDIO)
+5. libzip (modified for Visual Studio building) - [BSD 3-clause](LICENSE.LIBZIP)
 
-6. OGG and Vorbis - [BSD 3-Clause](LICENSE.OGGVORBIS)
+6. miniaudio - [MIT No Attribution](LICENSE.MINIAUDIO)
 
-7. zlib (modified for Visual Studio building) - [MIT License](LICENSE.ZLIBWIN), [ZLIB license](LICENSE.ZLIB)
+7. OGG and Vorbis - [BSD 3-Clause](LICENSE.OGGVORBIS)
 
-8. L-SMASH (modified to build under VIsual Studio 2022) - [ISC](LICENSE.LSMASH)
+8. zlib (modified for Visual Studio building) - [MIT License](LICENSE.ZLIBWIN), [ZLIB license](LICENSE.ZLIB)
+
+9. L-SMASH (modified to build under VIsual Studio 2022) - [ISC](LICENSE.LSMASH)
